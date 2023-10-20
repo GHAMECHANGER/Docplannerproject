@@ -1,0 +1,107 @@
+body{
+    background-color: white;
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    margin: 30px;
+    padding: 0;
+    margin-bottom: 100px;
+    align-items: center;
+}
+nav{
+    display: flex;
+    gap: 10px;
+
+}
+nav a{
+    color:#ababab ;
+    text-decoration: none;
+}
+nav a:hover{
+    color: #00b39b;
+}
+.selected{
+    color: #00b39b;
+}
+#star{
+    display: flex;
+justify-content: center;
+}
+.h1p{
+    display: flex;
+    color: #00b39b;
+    font-family: 'Work Sans', sans-serif;
+    justify-content: center;
+    font-size: 2.0rem;
+    font-weight: 50px;
+    letter-spacing: 0.3px;
+    padding-top: 20px;
+}
+#fordocpara1{
+    text-align: center;
+    margin-bottom: 100px;
+}
+#fordocpara2{
+    margin-bottom: 100px;
+}
+#forclinic1{
+    margin-top: 40px;
+}
+#forclinic2{
+    margin-bottom: 30px;
+}
+.paragraphs{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    font-size: 18px;
+    color: #747474;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-bottom: 100px;
+}
+.para1{
+    width: 350px;
+    height: 30px;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.para2{
+    width: 350px;
+    height: 30px;
+    justify-content: center;   
+}
+.main{
+    display: flex;
+    justify-content:center;
+    text-align: center;
+    gap: 30px;
+    font-size: larger;
+    color: white;
+    font-family: 'Work Sans', sans-serif;
+
+}
+.main1{
+    width: 300px;
+    height: 350px;
+    justify-content: center;
+    justify-items: center;
+    background-color: #00b39b;
+    border-radius: 10px;
+}
+.main2{
+    width: 250px;
+    height: 350px;
+    justify-content: center;
+    justify-items: center;
+    background-color: #3d83df;
+    border-radius: 10px;
+}
+.main3{
+    width: 300px;
+    height: 350px;
+    justify-content: center;
+    justify-items: center;
+    background-color: #1b2734;
+    border-radius: 10px;
+}
