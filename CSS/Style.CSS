@@ -46,9 +46,34 @@ justify-content: center;
 #con{
     text-decoration: underline;
 }
-#con2{
+.sele{
+    background-color: #00b39b;
+    border: none;
+    color: white;
     text-decoration: underline;
-    background-color: none;
+    font-size: large;
+}
+.sele2{
+    background-color: #3d83df;
+    border: none;
+    text-decoration: underline;
+    color: white;
+    font-size: large;
+}
+.sele3{
+    background-color:#1b2734;
+    border: none;
+    text-decoration: underline;
+    color: white;
+    font-size: large;
+}
+.sele4{
+    background-color: #1b2734;
+    border: none;
+    text-decoration: underline;
+    color: white;
+    font-size: large;
+    padding-top: 40px;
 }
 #fordocpara2{
     margin-bottom: 100px;
